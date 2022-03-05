@@ -3,6 +3,10 @@
 Página con prácticos y ejercicios hechos
 http://yovinci.com/site/hackers/
 
+## Pretemporada de matemática
+
+https://eva.ingresos.udelar.edu.uy/
+
 ## Matemática discreta 1
 
 https://eva.fing.edu.uy/course/view.php?id=323&section=0#tabs-tree-start
